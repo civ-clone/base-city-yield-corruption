@@ -1,4 +1,5 @@
 # base-city-yield-corruption
 
-This is a template repo.
+A value object for storing the value of `Corruption` related to `Trade`.
 
+Results in a `NegativeYield` (which negates all the values `add`ed, `set` and `subtract`ed).

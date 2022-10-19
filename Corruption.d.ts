@@ -1,3 +1,3 @@
-import Yield from '@civ-clone/core-yield/Yield';
-export declare class Corruption extends Yield {}
+import Trade from '@civ-clone/base-terrain-yield-trade/Trade';
+export declare class Corruption extends Trade {}
 export default Corruption;
